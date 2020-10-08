@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="runtime">
+  <id>org.gtk.Gtk3theme.AdwaitaEx</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>AdwaitaEx GTK+ Theme</name>
+  <name xml:lang="en">AdwaitaExtended GTK+ Theme</name>
+  <summary>AdwaitaExtended GTK+ theme</summary>
+  <summary xml:lang="en">AdwaitaExtended GTK+ theme</summary>
+  <description>
+    <p>AdwaitaExtended GTK+ theme used in Xubuntu.</p>
+    <p xml:lang="en">AdwaitaExtended GTK+ theme used in Xubuntu.</p>
+  </description>
+</component>
